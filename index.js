@@ -1,3 +1,4 @@
 function beforeEach(){
-return add(a, b)
+result = add(a, b);
+return result;
 }
